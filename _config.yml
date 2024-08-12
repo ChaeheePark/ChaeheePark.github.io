@@ -6,9 +6,10 @@ markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
-remote_theme: ankitsultana/researcher@gem
+
 footer: yes
 footer_url: "https://github.com/ChaeheePark"
+footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
@@ -18,4 +19,4 @@ nav:
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
-   link: "chaeheepark99@gmail.com"
+   link: "contact"
