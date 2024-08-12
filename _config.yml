@@ -1,4 +1,4 @@
-title: ChaeheePark
+title: Chaehee Park
 url: "https://ChaeheePark.github.io"
 baseurl: ""
 
@@ -9,7 +9,6 @@ tracking_id: #
 remote_theme: ankitsultana/researcher@gem
 footer: yes
 footer_url: "https://github.com/ChaeheePark"
-footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
@@ -19,4 +18,4 @@ nav:
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
-   link: "contact"
+   link: "chaeheepark99@gmail.com"
