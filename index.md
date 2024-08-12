@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a **final-semester student of the M.Sc. in Applied Artificial Intelligence at Sungkyunkwan University (SKKU), Seoul**. Before this, I completed my B.S. degree in Human-Centered AI and Applied Artificial Intelligence at Sangmyung University, Seoul.
+I am a **final-semester student of the M.Sc. in Applied Artificial Intelligence at Sungkyunkwan University (SKKU), Seoul**. Before this, I completed my B.S. degree in Human-Centered AI and Applied Artificial Intelligence at Sangmyung University, Seoul.
 
 I am interested in **<U>applying artificial intelligence and computer vision to research aimed at social good</U>**, with a particular focus on scene understanding. My interests also extend to exploring these within clinical and psychological therapy domains with Multimodal LLMs.
 
