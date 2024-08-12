@@ -36,12 +36,12 @@ Eunhye Jeong\*,  **<U>Chaehee Park\*</U>**, Hyejin Hong\*, et al. <br/>
 ## Education
 
 **Sungkyunkwan Univeristy**<br/>
-  Seoul, Republic of Korea, 2023. 03 - Present<br/>
-  M.Sc. in Applied Artificial Intelligence (advisor: Jinyoung Han)<br/>
+&emsp;Seoul, Republic of Korea, 2023. 03 - Present<br/>
+&emsp;M.Sc. in Applied Artificial Intelligence (advisor: Jinyoung Han)<br/>
 
 **Sangmyung University**<br/>
-  Seoul, Republic of Korea, 2019. 03 - 2023. 02<br/>
-  B.S. in Humen-centered AI and Applied Artificial Intelligence (double major)<br/>
+&emsp;Seoul, Republic of Korea, 2019. 03 - 2023. 02<br/>
+&emsp;B.S. in Humen-centered AI and Applied Artificial Intelligence (double major)<br/>
 
 
 ## Awards
