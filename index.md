@@ -26,7 +26,7 @@ layout: default
 **[2025]**
 
 - “Developing an AI-based Explainable Expert Support System for Art Therapy,”
-Jiwon Kang & Jiwon Kim & Migyeong Yang & **Chaehee Park** (equal contributions), Taeeun Kim, Hayeon Song, and Jinyoung Han, ACM Transactions on Interactive Intelligent Systems (SCIE), 14 (4), 1-23.
+Jiwon Kang & Jiwon Kim & Migyeong Yang & **Chaehee Park** (equal contributions), Taeeun Kim, Hayeon Song, and Jinyoung Han*, ACM Transactions on Interactive Intelligent Systems (SCIE), 14 (4), 1-23.
 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3689649)
 
 **[2024]**
