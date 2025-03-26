@@ -1,5 +1,12 @@
 @import "vars";
 
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
 /*
  * Basic
  */
@@ -11,8 +18,9 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    font-family: 'Pretendard-Regular', sans-serif;
     height: 100%;
+    line-height:1.8em;
 }
 a {
     text-decoration: none;
@@ -26,6 +34,9 @@ hr {
     height: 0;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+code {
+  background-color: $highlight;
 }
 
 /*
