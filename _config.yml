@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ChaeheePark"
+footer_url: "https://github.com/ankitsultana/researcher"
 footer_text: "Page design by Ankit Sultana"
 
 sass:
@@ -16,7 +16,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "Google Scholar"
+   link: "https://scholar.google.com/citations?user=b0ExCqQAAAAJ&hl=en"
+ - name: "Linkedin"
+   link: "https://www.linkedin.com/in/chaeheepark"
