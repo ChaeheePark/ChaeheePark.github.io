@@ -2,7 +2,7 @@
 layout: default
 ---
 
-🔬 Researcher @ Seoul Institute, Republic of Korea
+🔬 Researcher @ [Seoul Institute](https://www.si.re.kr/index.do), Republic of Korea
 
 🎯 Specializing in LLMs & Applied AI
 
@@ -27,11 +27,11 @@ layout: default
 
 - “Developing an AI-based Explainable Expert Support System for Art Therapy,”
 Jiwon Kang\*, Jiwon Kim\*, Migyeong Yang\*, **Chaehee Park\***, Taeeun Kim, Hayeon Song, and Jinyoung Han, ACM Transactions on Interactive Intelligent Systems (SCIE), 14 (4), 1-23.
-[[pdf](https://dl.acm.org/doi/pdf/10.1145/3689649)]
+[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3689649)
 
 **[2024]**
 
-- “SceneDAPR: A Scene-Level Free-Hand Drawing Dataset for Web-based Psychological Drawing Assessment,” Jiwon Kang, Jiwon Kim, Migyeong Yang, **Chaehee Park**, Taeun Kim, Hayeon Song, and Jinyoung Han, Proceedings of the ACM Web Conference (WWW) 2024. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3589334.3648150)] [[github](github.com/DSAIL-SKKU/SceneDAPR)]
+- “SceneDAPR: A Scene-Level Free-Hand Drawing Dataset for Web-based Psychological Drawing Assessment,” Jiwon Kang, Jiwon Kim, Migyeong Yang, **Chaehee Park**, Taeun Kim, Hayeon Song, and Jinyoung Han, Proceedings of the ACM Web Conference (WWW) 2024. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3589334.3648150) [[github]](github.com/DSAIL-SKKU/SceneDAPR)
 
 **[Domestic Publications]**
 
