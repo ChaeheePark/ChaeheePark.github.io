@@ -13,11 +13,11 @@ layout: default
 
 ## 👩🏻‍🎓Education
 
-- **Sungkyunkwan Univeristy, Seoul, Republic of Korea: 2023. 03 - 2025.02**
+- **Sungkyunkwan Univeristy, Seoul, Republic of Korea: 2023.03 - 2025.02**
     - Master’s in Applied Artificial Intelligence (*Advisor*: Dr. Jinyoung Han)
     -  Thesis: Developing a Draw-A-Person-in-the-Rain Assessment System Using a Multimodal Large Language Model [[url]](http://www.dcollection.net/handler/skku/000000181571)   
 
-- **Sangmyung University, Seoul, Republic of Korea: 2019. 03 - 2023.02**
+- **Sangmyung University, Seoul, Republic of Korea: 2019.03 - 2023.02**
     - Bachelor’s in Human-Centered AI & Applied Artificial Intelligence (double major)
  
 ---
@@ -39,9 +39,11 @@ Jiwon Kang\*, Jiwon Kim\*, Migyeong Yang\*, **Chaehee Park\***, Taeeun Kim, Haye
 - “On the Deep Generative Models Explaining the Rationale to Emotionally Supportive Conversations,” Eunhye Jeong\*,  **Chaehee Park\***, Hyejin Hong\*, et al., The Korean Society for Emotion and Sensibility (KOSES), Busan, Oct. 2022.
 ---
 
-## Work Experience
+## 👩🏻‍💼Teaching
+- Sungkyunkwan University
+    - Undergraduate Research Program (Summer, 2023) - TA
 
 
-
-
-## Awards
+- Sangmyung University
+    - Computational Thinking and Understanding Data (Spring 2021, Spring 2022) - TA
+    - Algorithms and Game Content (Fall 2021) - TA
