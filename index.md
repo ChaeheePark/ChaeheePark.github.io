@@ -2,12 +2,12 @@
 layout: default
 ---
 
-🔬 Researcher @ [Seoul Institute](https://www.si.re.kr/index.do), Republic of Korea
+🔬 Researcher @ [The Seoul Institute](https://www.si.re.kr/index.do), Republic of Korea
 
 🎯 Specializing in LLMs & Applied AI
 
-- Contact 📩: chaeheepark99@gmail.com
-- Last Updated: 2025-03-26
+- Contact 📩: [chaehee@si.re.kr](chaehee@si.re.kr)
+- Last Updated: 2025-04-01
 
 ---
 
