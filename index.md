@@ -6,7 +6,7 @@ layout: default
 
 🎯 Specializing in LLMs & Applied AI
 
-- Contact 📩: [chaehee@si.re.kr](chaehee@si.re.kr)
+- Contact 📩: <chaehee@si.re.kr>
 - Last Updated: 2025-04-01
 
 ---
