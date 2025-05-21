@@ -7,13 +7,13 @@ layout: default
 🎯 Specializing in LLMs & Applied AI
 
 - Contact 📩: <chaehee@si.re.kr>
-- Last Updated: 2025-04-01
+- Last Updated: 2025-05-21
 
 ---
 
 ## 👩🏻‍🎓Education
 
-- **Sungkyunkwan Univeristy, Seoul, Republic of Korea: 2023.03 - 2025.02**
+- **Sungkyunkwan University, Seoul, Republic of Korea: 2023.03 - 2025.02**
     - Master’s in Applied Artificial Intelligence (*Advisor*: Dr. Jinyoung Han)
     -  Thesis: Developing a Draw-A-Person-in-the-Rain Assessment System Using a Multimodal Large Language Model [[url]](http://www.dcollection.net/handler/skku/000000181571)   
 
@@ -24,6 +24,9 @@ layout: default
 
 ## 📎Publications
 **[2025]**
+
+- “PracticeDAPR: An AI-based Education-Supported System for Art Therapy,”
+Migyeong Yang, **Chaehee Park**, Jiwon Kang, Jiwon Kim, Taeeun Kim, Hayeon Song, and Jinyoung Han*, The ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) 2025. [[pdf]](https://dl.acm.org/doi/10.1145/3711112)
 
 - “Developing an AI-based Explainable Expert Support System for Art Therapy,”
 Jiwon Kang & Jiwon Kim & Migyeong Yang & **Chaehee Park** (equal contributions), Taeeun Kim, Hayeon Song, and Jinyoung Han*, ACM Transactions on Interactive Intelligent Systems (SCIE), 14 (4), 1-23.
