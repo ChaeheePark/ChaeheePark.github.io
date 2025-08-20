@@ -7,7 +7,7 @@ layout: default
 🎯 Specializing in LLMs & Applied AI
 
 - Contact 📩: <chaehee@si.re.kr>
-- Last Updated: 2025-05-21
+- Last Updated: 2025-08-20
 
 ---
 
@@ -15,7 +15,7 @@ layout: default
 
 - **Sungkyunkwan University, Seoul, Republic of Korea: 2023.03 - 2025.02**
     - Master’s in Applied Artificial Intelligence (*Advisor*: Dr. Jinyoung Han)
-    -  Thesis: Developing a Draw-A-Person-in-the-Rain Assessment System Using a Multimodal Large Language Model [[url]](http://www.dcollection.net/handler/skku/000000181571)   
+    - Thesis: Developing a Draw-A-Person-in-the-Rain Assessment System Using a Multimodal Large Language Model [[url]](http://www.dcollection.net/handler/skku/000000181571)   
 
 - **Sangmyung University, Seoul, Republic of Korea: 2019.03 - 2023.02**
     - Bachelor’s in Human-Centered AI & Applied Artificial Intelligence (double major)
