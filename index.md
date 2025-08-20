@@ -25,6 +25,9 @@ layout: default
 ## 📎Publications
 **[2025]**
 
+- “CheckDAPR: CheckDAPR: An MLLM-based Sketch Analysis System for Draw-A-Person-in-the-Rain Assessments,”
+**Chaehee Park** (equal contributions) & Migyeong Yang, Taeeun Kim, Hayeon Song, and Jinyoung Han*, The Conference on Information and Knowledge Management (CIKM) 2025. [[pdf]]() [[github]](github.com/DSAIL-SKKU/CheckDAPR)
+
 - “PracticeDAPR: An AI-based Education-Supported System for Art Therapy,”
 Migyeong Yang, **Chaehee Park**, Jiwon Kang, Jiwon Kim, Taeeun Kim, Hayeon Song, and Jinyoung Han*, The ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) 2025. [[pdf]](https://dl.acm.org/doi/10.1145/3711112)
 
