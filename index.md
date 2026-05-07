@@ -4,10 +4,17 @@ layout: default
 
 🔬 Researcher @ [The Seoul Institute](https://www.si.re.kr/index.do), Republic of Korea
 
-🎯 Specializing in LLMs & Applied AI
-
 - Contact 📩: <chaehee@si.re.kr>
-- Last Updated: 2025-08-20
+- Last Updated: 2026-05-07
+
+---
+
+## 🔍Research Interests
+
+- Large Language Models and Applied AI
+- Multimodal AI for Psychological and Human-Centered Interaction
+- AI for Social Impact, Public Safety, and Urban Policy
+- RAG-based Knowledge Systems and LLM Evaluation
 
 ---
 
@@ -23,9 +30,16 @@ layout: default
 ---
 
 ## 📎Publications
+
+**[2026]**
+
+- “BetaDAPR: An AI-based Expert Support System for Art Therapists with Qualitative and Quantitative Assistance,”
+Migyeong Yang, **Chaehee Park**, Hyunseon Won, Taeeun Kim, Hayeon Song, and Jinyoung Han*, The 29th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) 2026
+
+
 **[2025]**
 
-- “CheckDAPR: CheckDAPR: An MLLM-based Sketch Analysis System for Draw-A-Person-in-the-Rain Assessments,”
+- “CheckDAPR: An MLLM-based Sketch Analysis System for Draw-A-Person-in-the-Rain Assessments,”
 **Chaehee Park** (equal contributions) & Migyeong Yang, Taeeun Kim, Hayeon Song, and Jinyoung Han*, The Conference on Information and Knowledge Management (CIKM) 2025. [[pdf]]() [[github]](https://github.com/DSAIL-SKKU/CheckDAPR)
 
 - “PracticeDAPR: An AI-based Education-Supported System for Art Therapy,”
@@ -55,3 +69,10 @@ Jiwon Kang & Jiwon Kim & Migyeong Yang & **Chaehee Park** (equal contributions),
 - Sangmyung University
     - Computational Thinking and Understanding Data (Spring 2021, Spring 2022) - TA
     - Algorithms and Game Content (Fall 2021) - TA
+
+---
+
+## 🧑🏻‍💻Academic Service
+
+- **Reviewer**, *CHI 2026 Posters*, 2026
+- **Reviewer**, *Cognitive Processing*, 2026
