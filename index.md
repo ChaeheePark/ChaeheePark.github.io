@@ -333,8 +333,10 @@ last_modified_at: 2026-07-29
     <p>
       I am a researcher in the AI &amp; Big Data Team at The Seoul Institute.
       My research lies at the intersection of
-      <strong>large language models, multimodal artificial intelligence,
-      and public-sector innovation</strong>.
+      <strong>
+        large language models, multimodal artificial intelligence,
+        and public-sector innovation
+      </strong>.
       I am particularly interested in translating advanced AI methods into
       deployable systems for psychological assessment, urban safety,
       public policy, and knowledge-intensive administrative services.
@@ -376,14 +378,18 @@ last_modified_at: 2026-07-29
       <ul class="timeline-description">
         <li>
           Conduct applied research on
-          <strong>public-sector AI agents, LLM-based administrative support
-          systems, retrieval-augmented generation, and small language model
-          adoption strategies</strong>.
+          <strong>
+            public-sector AI agents, LLM-based administrative support
+            systems, retrieval-augmented generation, and small language model
+            adoption strategies
+          </strong>.
         </li>
         <li>
           Develop data-driven methodologies for
-          <strong>urban safety, geospatial risk analysis, crime prediction,
-          and public safety policy</strong>.
+          <strong>
+            urban safety, geospatial risk analysis, crime prediction,
+            and public safety policy
+          </strong>.
         </li>
         <li>
           Contribute to AI-enabled crime prevention systems, including
@@ -431,7 +437,9 @@ last_modified_at: 2026-07-29
 
     <article class="timeline-item">
       <div class="timeline-heading">
-        <span class="timeline-organization">Sungkyunkwan University</span>
+        <span class="timeline-organization">
+          Sungkyunkwan University
+        </span>
         <span class="timeline-period">Mar. 2023 – Feb. 2025</span>
       </div>
 
@@ -461,13 +469,16 @@ last_modified_at: 2026-07-29
 
     <article class="timeline-item">
       <div class="timeline-heading">
-        <span class="timeline-organization">Sangmyung University</span>
+        <span class="timeline-organization">
+          Sangmyung University
+        </span>
         <span class="timeline-period">Mar. 2019 – Feb. 2023</span>
       </div>
 
       <p class="timeline-position">
         B.S. in Human-Centered Artificial Intelligence<br>
-        Double Major in Applied Artificial Intelligence · Seoul, Republic of Korea
+        Double Major in Applied Artificial Intelligence ·
+        Seoul, Republic of Korea
       </p>
     </article>
   </section>
@@ -494,8 +505,8 @@ last_modified_at: 2026-07-29
       </p>
 
       <div class="publication-meta">
-        <span class="tag tag-journal">[SSCI]</span>
-        <span class="tag tag-journal">[JCR 2025 IF 2.7]</span>
+        <span class="tag tag-journal">SSCI</span>
+        <span class="tag tag-journal">JCR 2025 IF 2.7</span>
 
         <!--
         <span class="publication-links">
@@ -514,7 +525,8 @@ last_modified_at: 2026-07-29
 
       <p class="publication-authors">
         Jiwon Kang<sup>†</sup>, Jiwon Kim<sup>†</sup>,
-        Migyeong Yang<sup>†</sup>, <strong>Chaehee Park<sup>†</sup></strong>,
+        Migyeong Yang<sup>†</sup>,
+        <strong>Chaehee Park<sup>†</sup></strong>,
         Taeeun Kim, Hayeon Song, and Jinyoung Han<sup>*</sup>
       </p>
 
@@ -524,8 +536,8 @@ last_modified_at: 2026-07-29
       </p>
 
       <div class="publication-meta">
-        <span class="tag tag-journal">[SCIE]</span>
-        <span class="tag tag-author">[Equal Contribution]</span>
+        <span class="tag tag-journal">SCIE</span>
+        <span class="tag tag-author">Equal Contribution</span>
 
         <span class="publication-links">
           <a href="https://dl.acm.org/doi/pdf/10.1145/3689649">
@@ -560,7 +572,7 @@ last_modified_at: 2026-07-29
       </p>
 
       <div class="publication-meta">
-        <span class="tag tag-conference">[CSCW 2026]</span>
+        <span class="tag tag-conference">CSCW 2026</span>
 
         <!--
         <span class="publication-links">
@@ -593,7 +605,8 @@ last_modified_at: 2026-07-29
       </p>
 
       <div class="publication-meta">
-        <span class="tag tag-author">[Co-First Author]</span>
+        <span class="tag tag-conference">CIKM 2025</span>
+        <span class="tag tag-author">Co-First Author</span>
 
         <span class="publication-links">
           <!-- <a href="PAPER_URL">[Paper]</a> -->
@@ -624,7 +637,7 @@ last_modified_at: 2026-07-29
       </p>
 
       <div class="publication-meta">
-        <span class="tag tag-conference">[CSCW 2025]</span>
+        <span class="tag tag-conference">CSCW 2025</span>
 
         <span class="publication-links">
           <a href="https://dl.acm.org/doi/10.1145/3711112">
@@ -654,7 +667,7 @@ last_modified_at: 2026-07-29
       </p>
 
       <div class="publication-meta">
-        <span class="tag tag-conference">[WWW 2024]</span>
+        <span class="tag tag-conference">WWW 2024</span>
 
         <span class="publication-links">
           <a href="https://dl.acm.org/doi/pdf/10.1145/3589334.3648150">
@@ -676,7 +689,7 @@ last_modified_at: 2026-07-29
       </p>
 
       <p class="publication-authors">
-        <strong>Chaehee Park</strong>, Juncheol Kim<sup>*</sup>
+        <strong>Chaehee Park</strong>, Junchul Kim<sup>*</sup>
       </p>
 
       <p class="publication-venue">
@@ -688,8 +701,8 @@ last_modified_at: 2026-07-29
       </p>
 
       <div class="publication-meta">
-        <span class="tag tag-author">[First Author]</span>
-        <span class="tag tag-language">[Paper in Korean]</span>
+        <span class="tag tag-author">First Author</span>
+        <span class="tag tag-language">Paper in Korean</span>
 
         <!--
         <span class="publication-links">
@@ -719,8 +732,8 @@ last_modified_at: 2026-07-29
       </p>
 
       <div class="publication-meta">
-        <span class="tag tag-author">[First Author]</span>
-        <span class="tag tag-language">[Paper in Korean]</span>
+        <span class="tag tag-author">First Author</span>
+        <span class="tag tag-language">Paper in Korean</span>
 
         <!--
         <span class="publication-links">
@@ -751,8 +764,8 @@ last_modified_at: 2026-07-29
       </p>
 
       <div class="publication-meta">
-        <span class="tag tag-author">[First Author]</span>
-        <span class="tag tag-language">[Paper in Korean]</span>
+        <span class="tag tag-author">First Author</span>
+        <span class="tag tag-language">Paper in Korean</span>
 
         <!--
         <span class="publication-links">
@@ -783,8 +796,8 @@ last_modified_at: 2026-07-29
       </p>
 
       <div class="publication-meta">
-        <span class="tag tag-author">[Co-First Author]</span>
-        <span class="tag tag-language">[Paper in Korean]</span>
+        <span class="tag tag-author">Co-First Author</span>
+        <span class="tag tag-language">Paper in Korean</span>
 
         <!--
         <span class="publication-links">
@@ -825,11 +838,15 @@ last_modified_at: 2026-07-29
 
     <article class="timeline-item">
       <div class="timeline-heading">
-        <span class="timeline-organization">Sungkyunkwan University</span>
+        <span class="timeline-organization">
+          Sungkyunkwan University
+        </span>
         <span class="timeline-period">Summer 2023</span>
       </div>
 
-      <p class="timeline-position">Teaching Assistant</p>
+      <p class="timeline-position">
+        Teaching Assistant
+      </p>
 
       <ul class="timeline-description">
         <li>Undergraduate Research Program</li>
@@ -838,11 +855,15 @@ last_modified_at: 2026-07-29
 
     <article class="timeline-item">
       <div class="timeline-heading">
-        <span class="timeline-organization">Sangmyung University</span>
+        <span class="timeline-organization">
+          Sangmyung University
+        </span>
         <span class="timeline-period">2021 – 2022</span>
       </div>
 
-      <p class="timeline-position">Teaching Assistant</p>
+      <p class="timeline-position">
+        Teaching Assistant
+      </p>
 
       <ul class="timeline-description">
         <li>
