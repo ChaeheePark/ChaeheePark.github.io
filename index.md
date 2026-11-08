@@ -388,12 +388,11 @@ last_modified_at: 2026-11-08
 
   <header class="profile-header">
     <p class="profile-role">
-      Applied AI Researcher · Large Language Models · Multimodal Intelligence · Trustworthy AI
+     AI Researcher
     </p>
 
     <p class="profile-affiliation">
-      Researcher, 3rd Technology Research Institute,<br>
-      <a href="https://www.add.re.kr/">Agency for Defense Development (ADD)</a><br>
+      Researcher @ <a href="https://www.add.re.kr/">Agency for Defense Development (ADD)</a><br>
       Seoul, Republic of Korea
     </p>
 
