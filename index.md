@@ -1,9 +1,4 @@
----
-layout: default
-title: Chaehee Park
-description: AI Researcher
-last_modified_at: 2026-11-08
----
+
 <style>
 :root {
   --profile-text: #2b3648;
