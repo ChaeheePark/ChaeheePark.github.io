@@ -356,7 +356,7 @@
 }
 </style><main class="profile-page">  <header class="profile-header">
     <p class="profile-role">
-      Applied AI Researcher · Large Language Models · Multimodal Intelligence · Trustworthy AI
+      AI Researcher
     </p><p class="profile-affiliation">
   Researcher, 3rd Technology Research Institute,<br>
   <a href="https://www.add.re.kr/">Agency for Defense Development (ADD)</a><br>
@@ -372,8 +372,7 @@
   </header>  <section class="profile-introduction">
     <p>
       I am a researcher at the
-      <strong>Agency for Defense Development (ADD)</strong>, based in Seoul
-      within the 3rd Technology Research Institute. My research focuses on
+      <strong>Agency for Defense Development (ADD)</strong>. My research focuses on
       <strong>
         large language models, multimodal artificial intelligence,
         retrieval-augmented generation, agentic systems, and reliable AI deployment
@@ -413,10 +412,6 @@
   </p>
 
   <ul class="timeline-description">
-    <li>
-      Serve as a researcher within ADD's 3rd Technology Research Institute,
-      based at the Seoul research site.
-    </li>
     <li>
       Broader research interests include large language models, multimodal AI,
       retrieval-augmented generation, agentic systems, and trustworthy AI deployment.
